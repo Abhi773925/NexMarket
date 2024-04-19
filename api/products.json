@@ -1,0 +1,199 @@
+[
+    {
+      "id": 1,
+      "name": "Laptop",
+      "category": "Electronics",
+      "brand": "ExampleBrand",
+      "price": 49999.99,
+      "stock": 50,
+      "description": "Powerful laptop with a quad-core i5 processor, 8GB RAM, 256GB SSD, and a 14-inch FHD display.",
+      "image": "../images/lapi.png"
+    },
+    {
+      "id": 2,
+      "name": "Smartphone",
+      "category": "Electronics",
+      "brand": "TechGadget",
+      "price": 4599.99,
+      "stock": 100,
+      "image": "../images/iphone.png",
+      "description": "Feature-rich smartphone with a 6.2-inch screen, 12MP dual camera, 128GB storage, and a 4000mAh battery."
+    },
+    {
+      "id": 3,
+      "name": "Wireless Headphones",
+      "category": "Electronics",
+      "brand": "SoundBeats",
+      "price": 1149.99,
+      "stock": 30,
+      "image": "../images/headphone.png",
+      "description": "High-quality wireless headphones with over-ear design, 20 hours of battery life, and a sleek black color."
+    },
+    {
+      "id": 4,
+      "name": "Watches",
+      "category": "Electronics",
+      "brand": "FitTech",
+      "price": 10299.99,
+      "stock": 20,
+      "image": "../images/watch.png",
+      "description": "Smartwatch with a 1.3-inch AMOLED display, water-resistant design, fitness tracking features, and a stylish silver color."
+    },
+    {
+      "id": 5,
+      "name": "Speakers",
+      "category": "Electronics",
+      "brand": "SoundBeats",
+      "price": 1249.99,
+      "stock": 30,
+      "image": "../images/speakers.png",
+      "description": "High-quality wireless headphones with over-ear design, 20 hours of battery life, and a sleek black color."
+    },
+    {
+      "id": 6,
+      "name": "Television",
+      "category": "Electronics",
+      "brand": "Samsung",
+      "price": 19609.99,
+      "stock": 20,
+      "image": "../images/tv.png",
+      "description": "Smartwatch with a 1.3-inch AMOLED display, water-resistant design, fitness tracking features, and a stylish silver color."
+    },
+    {
+      "id": 7,
+      "name": "aata",
+      "category": "Groceries",
+      "price": 30.99,
+      "stock": 50,
+      "image": "../images/wheat.png",
+      "description": "Premium quality whole wheat grains, per kilogram."
+    },
+    {
+      "id": 8,
+      "name": "Rice",
+      "category": "Groceries",
+      "price": 50.49,
+      "stock": 100,
+      "image": "../images/rice.png",
+      "description": "Long-grain basmati rice, per kilogram."
+    },
+    {
+      "id": 9,
+      "name": "Cooking Oil",
+      "category": "Groceries",
+      "price": 120.99,
+      "stock": 30,
+      "image": "../images/oil.png",
+      "description": "Healthy cooking oil, 1-liter bottle."
+    },
+    {
+      "id": 10,
+      "name": "Sugar",
+      "category": "Groceries",
+      "price": 40.49,
+      "stock": 40,
+      "image": "../images/sugar.png",
+      "description": "Refined white sugar, 1-kilogram pack."
+    },
+    {
+      "id": 11,
+      "name": "Dal",
+      "category": "Groceries",
+      "price": 180.49,
+      "stock": 50,
+      "image": "../images/dal.png",
+      "description": "Assorted lentils pack, 1-kilogram pack."
+    },
+    {
+      "id": 12,
+      "name": "Masala",
+      "category": "Groceries",
+      "price": 49.99,
+      "stock": 60,
+      "image": "../images/masala.png",
+      "description": "Mixed spices, 100-gram pack."
+    },
+    {
+      "id": 13,
+      "name": "Shirt",
+      "category": "Clothing",
+      "price": 859.99,
+      "stock": 20,
+      "image": "../images/shirt.png",
+      "description": "Casual cotton shirt for men."
+    },
+    {
+      "id": 14,
+      "name": "Pants",
+      "category": "Clothing",
+      "price": 1299.99,
+      "stock": 20,
+      "image": "../images/pants.png",
+      "description": "Classic denim jeans for men."
+    },
+    {
+      "id": 15,
+      "name": "T-Shirt",
+      "category": "Clothing",
+      "price": 929.99,
+      "stock": 30,
+      "image": "../images/t-shirts.png",
+      "description": "Comfortable cotton t-shirt for everyday wear."
+    },
+    {
+      "id": 16,
+      "name": "Jacket",
+      "category": "Clothing",
+      "price": 5009.99,
+      "stock": 15,
+      "image": "../images/jacket.png",
+      "description": "Stylish bomber jacket for men."
+    },
+    {
+      "id": 17,
+      "name": "Shoes",
+      "category": "Clothing",
+      "price": 1449.99,
+      "stock": 25,
+      "image": "../images/shoes.png",
+      "description": "Sporty sneakers for men."
+    },
+    {
+      "id": 18,
+      "name": "Sweater",
+      "category": "Clothing",
+      "price": 2499.99,
+      "stock": 15,
+      "image": "../images/sweater.png",
+      "description": "Cozy woolen sweater for cold weather."
+    },
+    {
+      "id": 19,
+      "name": "Gown",
+      "category": "Clothing",
+      "price": 304.99,
+      "stock": 20,
+      "image": "../images/dress.png",
+      "description": "Elegant floral dress for women."
+    },
+    {
+      "id": 20,
+      "name": "Skirt",
+      "category": "Clothing",
+      "price": 204.99,
+      "stock": 25,
+      "image": "../images/skirts.png",
+      "description": "Stylish denim skirt for women."
+    },
+    {
+        "id": 21,
+        "name": "Maxi Dress",
+        "category": "Clothing",
+        "price": 1209.99,
+        "stock": 15,
+        "image": "../images/maxi.png",
+        "description": "Flowy and elegant maxi dress for women, perfect for special occasions."
+      }
+      
+  ]
+  
